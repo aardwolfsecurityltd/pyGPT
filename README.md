@@ -1,6 +1,6 @@
 # pyGPT
 
-# A simple Python script to interact with OpenAI's ChatGPT API. 
+## A simple Python script to interact with OpenAI's ChatGPT API. 
 This script allows users to have a conversation with ChatGPT, and reset the conversation when desired.
 
 ## Dependencies
