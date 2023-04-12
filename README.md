@@ -1,6 +1,6 @@
 # pyGPT
 
-A simple Python script to interact with OpenAI's ChatGPT API from the command line. This script allows users to have a conversation with ChatGPT, and reset the conversation when desired.
+An unofficial Python wrapper designed to interact with OpenAI's ChatGPT API from the command line. This script allows users to have a conversation with ChatGPT, and reset the conversation when desired.
 
 ## Dependencies
 - Python 3.6+
